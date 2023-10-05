@@ -1,6 +1,6 @@
 # Archiviz
 
-[Screenshot of a force-directed interactive knowledge graph that was created by using Archiviz plug-ins] (https://raw.githubusercontent.com/BCWrit/Elasticsearch/main/images/Screenshot%20from%202022-11-01%2010-15-45.png)
+![Screenshot of a force-directed interactive knowledge graph that was created by using Archiviz plug-ins] (https://raw.githubusercontent.com/BCWrit/Elasticsearch/main/images/Screenshot%20from%202022-11-01%2010-15-45.png)
 
 - Link to Tool: [https://omeka.org/classic/plugins/Archiviz/]
 - Link to Abstract: [https://dh-abstracts.library.virginia.edu/works/11719]
@@ -13,4 +13,4 @@ I haven't used Archiviz before, or Omeka for that matter. But I know that many e
 
 Another tool that I'd be interested in exploring because of its minimal computing principles is Alex Gil's Jekyll theme Ed. It was designed for textual editors and focuses on achieving legibility, durability, ease and flexibility. 
 
-- Link for Ed: [https://minicomp.github.io/ed/] 
+- Link for Ed: [ https://minicomp.github.io/ed/ ] 
